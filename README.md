@@ -1,4 +1,4 @@
 # 常用组件
-- [ x ] AppStartup
-- [ x ] Flow
-- [ x ] Navigation
+- [x] AppStartup
+- [x] Flow
+- [x] Navigation
