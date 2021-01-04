@@ -1,0 +1,1 @@
+E:\CXP-AS-Demo\components-samples\BuildSrcSample\buildSrc\build\classes\kotlin\main\AndroidConfig.class;E:\CXP-AS-Demo\components-samples\BuildSrcSample\buildSrc\build\classes\kotlin\main\Deps.class;E:\CXP-AS-Demo\components-samples\BuildSrcSample\buildSrc\build\classes\kotlin\main\Versions.class
